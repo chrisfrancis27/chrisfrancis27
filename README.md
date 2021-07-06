@@ -2,6 +2,5 @@
 
 ## Hi there 👋
 
-👨‍💻 I’m a contract front-end/full-stack engineer
-
-🔭 I’m currently building [doozy.live](https://doozy.live)
+* 👨‍💻 I’m a contract front-end/full-stack engineer
+* 🔭 I’m currently building [doozy.live](https://doozy.live)
