@@ -2,5 +2,6 @@
 
 ## Hi there 👋
 
-* 👨‍💻 I’m a contract front-end/full-stack engineer
-* 🔭 I’m currently building a headless CMS-powered editor experience for a global brand
+* 👨‍💻 I’m a contract front-end & full-stack engineer
+* ⚛️ My current toolchain-du-jour is React, Typescript and GraphQL
+* 🔭 I’m currently building a UI editor experience for a global logistics company
