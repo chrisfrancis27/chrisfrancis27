@@ -2,6 +2,7 @@
 
 ## Hi there 👋
 
-* 👨‍💻 I’m a contract front-end & full-stack engineer
-* ⚛️ My toolchain-du-jour is React, Typescript and GraphQL
+* 👨‍💻 I’m a front-end & full-stack engineer
+* ⚛️ My stack-du-jour is React, Typescript and GraphQL
+* 🎨 I love elegant design, beautiful animation and delightful UX
 * 🔭 I’m currently building a UI editor experience for a global logistics company
