@@ -3,6 +3,6 @@
 ## Hi there 👋
 
 * 👨‍💻 I’m a front-end & full-stack engineer
-* ⚛️ My stack-du-jour is React, Typescript and GraphQL
+* ⚛️ My preferred stack right now is React, Typescript and GraphQL
 * 🎨 I love elegant design, beautiful animation and delightful UX
 * 🔭 I’m currently building a UI editor experience for a global logistics company
