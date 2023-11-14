@@ -1,5 +1,5 @@
 [![](https://www.codewars.com/users/chrisfrancis27/badges/small)](https://www.codewars.com/users/chrisfrancis27)
-[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com/profile/chrisf)
+[![streak](https://img.shields.io/endpoint?url=https://codeium.com/badges/user/chrisf/streak)](https://codeium.com/profile/chrisf)
 
 ## Hi there 👋
 
