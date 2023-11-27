@@ -5,6 +5,8 @@
 * 🎨 I love elegant design, beautiful animation and delightful UX
 * 🔭 I’m currently delivering the greenfield rebuild of a FTSE-100 e-commerce site
 
+![Github years](https://badges.pufler.dev/years/chrisfrancis27)
+
 [![Codewars](https://www.codewars.com/users/chrisfrancis27/badges/small)](https://www.codewars.com/users/chrisfrancis27)
 
 [![Codeium completions](https://codeium.com/badges/user/chrisf/autocomplete)](https://codeium.com/profile/chrisf)
