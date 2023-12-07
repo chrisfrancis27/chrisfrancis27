@@ -1,0 +1,72 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/chrisfrancis27/glob/commit/a3af022858707d5252fbf3cde2e2fb5020f7d682\"><strong>a</strong>3af022858707d5252fbf3cde2e2fb5020f7d682</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/chrisfrancis27/chrisfrancis27/commit/abb275aa6594aaaa57ba799131fc70026432b1fb\"><strong>ab</strong>b275aa6594aaaa57ba799131fc70026432b1fb</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/chrisfrancis27/chrisfrancis27/commit/4258715089c83ea7ff11c076177dd1a7868ffe88\">4258715</a>\n- <a href=\"https://github.com/chrisfrancis27/chrisfrancis27/commit/673a4190c4e03d0f6d7964460eafd054d253a5f6\">673a419</a>\n- <a href=\"https://github.com/chrisfrancis27/chrisfrancis27/commit/b948522091dc3fc3373f953f297b1f0b928b3fdb\">b948522</a>\n- <a href=\"https://github.com/chrisfrancis27/chrisfrancis27/commit/fc3a7238df08477efc7ced676d7092270fb9c36d\">fc3a723</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-5.png?raw=true"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-10.png?raw=true"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-1.png?raw=true"
+  },
+  {
+    "id": "old-issue-1",
+    "tier": 1,
+    "desc": "I closed an issue that was open for 1 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/searls/jasmine-fixture/issues/10\">#10</a>: Repeated elements, text nodes and hrefs with period character\n- <a href=\"https://github.com/balderdashy/sails-docs/issues/413\">#413</a>: No documentation of res.jsonx() - should there be?",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/old-issue/old-issue-1.png?raw=true"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 20 times)\n2. readme.md (used 20 times)\n3. initial (used 7 times)\n4. commit (used 7 times)\n5. layout (used 4 times)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/hammerjs/hammer.js/issues/10\">#10</a>: Mouse click causing 'tap' to fire 5 times for each matched selector\n- <a href=\"https://github.com/MattWilcox/Adaptive-Images/issues/68\">#68</a>: Can't run on Apache alias directory\n- <a href=\"https://github.com/mattdiamond/fuckitjs/issues/6\">#6</a>: Fucked it\n- <a href=\"https://github.com/lovell/sharp/issues/780\">#780</a>: resize() can cause slight (~1px) cropping on circular features\n- <a href=\"https://github.com/randdusing/cordova-plugin-bluetoothle/issues/495\">#495</a>: npm publish latest version",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true"
+  }
+]
