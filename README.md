@@ -7,7 +7,6 @@
 
 ![Github years](https://badges.pufler.dev/years/chrisfrancis27) [![Codewars](https://www.codewars.com/users/chrisfrancis27/badges/small)](https://www.codewars.com/users/chrisfrancis27) [![Codeium completions](https://codeium.com/badges/user/chrisf/autocomplete)](https://codeium.com/profile/chrisf) [![StackOverflow](https://stackoverflow-badge.vercel.app/?userID=752213)](https://stackoverflow.com/users/752213/chrisfrancis27)
 
-
 <!-- my-badges start -->
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
 
@@ -23,5 +22,10 @@
 <a href="my-badges/polite-coder.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <!-- my-badges end -->
 
+| Codeium | GitHub |
+| :---:   | :---: |
+| ![](https://codeium.com/profile/chrisf/card.png) | [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisfrancis27)](https://github.com/anuraghazra/github-readme-stats)   |
 
-![](https://codeium.com/profile/chrisf/card.png)
+
+
+
