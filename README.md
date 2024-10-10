@@ -1,11 +1,12 @@
 ## Hi there 👋
 
 * 👨‍💻 I’m a front-end & full-stack engineer
-* ⚛️ My preferred stack right now is React/Next, Typescript and GraphQL
+* ⚛️ My preferred stack right now is React/Next, Typescript, GraphQL, Rust and WebAssembly
 * 🎨 I love elegant design, beautiful animation and delightful UX
 * 🔭 I’m currently building an industry-leading brower-native video editor
 
-![Github years](https://badges.pufler.dev/years/chrisfrancis27) [![Codewars](https://www.codewars.com/users/chrisfrancis27/badges/small)](https://www.codewars.com/users/chrisfrancis27) [![Codeium completions](https://codeium.com/badges/user/chrisf/autocomplete)](https://codeium.com/profile/chrisf) [![Codeium streak](https://img.shields.io/endpoint?url=https://codeium.com/badges/user/chrisf/streak)](https://codeium.com/profile/chrisf) [![StackOverflow](https://stackoverflow-badge.vercel.app/?userID=752213)](https://stackoverflow.com/users/752213/chrisfrancis27)
+![Github years](https://badges.pufler.dev/years/chrisfrancis27) [![Codewars](https://www.codewars.com/users/chrisfrancis27/badges/small)](https://www.codewars.com/users/chrisfrancis27) [![Codeium completions](https://codeium.com/badges/user/chrisf/autocomplete)](https://codeium.com/profile/chrisf) [![StackOverflow](https://stackoverflow-badge.vercel.app/?userID=752213)](https://stackoverflow.com/users/752213/chrisfrancis27)
+
 
 <!-- my-badges start -->
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
@@ -22,3 +23,5 @@
 <a href="my-badges/polite-coder.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <!-- my-badges end -->
 
+
+![](https://codeium.com/profile/chrisf/card.png)
