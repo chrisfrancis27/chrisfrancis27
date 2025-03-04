@@ -1,9 +1,24 @@
 ## Hi there 👋
 
 * 👨‍💻 I’m a front-end & full-stack engineer
-* ⚛️ My preferred stack right now is React/Next, Typescript, GraphQL, Rust and WebAssembly
+* ⚛️ My preferred stack right now is React/Next, Typescript, Rust, WebGPU and WebAssembly
 * 🎨 I love elegant design, beautiful animation and delightful UX
-* 🔭 I’m currently building an industry-leading brower-native video editor
+* 🔭 I’m currently building a browser-based collaborative video editor [↗️](https://elevate.io/)
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%">Codeium</th>
+      <th width="50%">GitHub</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%"><img src="https://codeium.com/profile/chrisf/card.png" /></td>
+      <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=chrisfrancis27&theme=dark&show_icons=true&hide_title=true" /></td>
+    </tr>
+  </tbody>
+</table>
 
 ![Github years](https://badges.pufler.dev/years/chrisfrancis27) [![Codewars](https://www.codewars.com/users/chrisfrancis27/badges/small)](https://www.codewars.com/users/chrisfrancis27) [![Codeium completions](https://codeium.com/badges/user/chrisf/autocomplete)](https://codeium.com/profile/chrisf) [![StackOverflow](https://stackoverflow-badge.vercel.app/?userID=752213)](https://stackoverflow.com/users/752213/chrisfrancis27)
 
@@ -21,11 +36,4 @@
 <a href="my-badges/favorite-word.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true" alt="My favorite word is &quot;update&quot;." title="My favorite word is &quot;update&quot;." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <!-- my-badges end -->
-
-| Codeium | GitHub |
-| :---:   | :---: |
-| ![](https://codeium.com/profile/chrisf/card.png) | [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisfrancis27)](https://github.com/anuraghazra/github-readme-stats)   |
-
-
-
 
