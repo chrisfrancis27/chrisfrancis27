@@ -1,26 +1,10 @@
 ## Hi there 👋
 
-* 👨‍💻 I’m a front-end & full-stack engineer
-* ⚛️ My preferred stack right now is React/Next, Typescript, Rust, WebGPU and WebAssembly
-* 🎨 I love elegant design, beautiful animation and delightful UX
+* 👨‍💻 I’m a frontend software engineer
+* ⚛️ My stack right now is Typescript, WebGPU, Rust and WebAssembly
 * 🔭 I’m currently building a browser-based collaborative video editor [↗️](https://elevate.io/)
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%">Codeium</th>
-      <th width="50%">GitHub</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="50%"><img src="https://codeium.com/profile/chrisf/card.png" /></td>
-      <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=chrisfrancis27&theme=dark&show_icons=true&hide_title=true" /></td>
-    </tr>
-  </tbody>
-</table>
-
-![Github years](https://badges.pufler.dev/years/chrisfrancis27) [![Codewars](https://www.codewars.com/users/chrisfrancis27/badges/small)](https://www.codewars.com/users/chrisfrancis27) [![Codeium completions](https://codeium.com/badges/user/chrisf/autocomplete)](https://codeium.com/profile/chrisf) [![StackOverflow](https://stackoverflow-badge.vercel.app/?userID=752213)](https://stackoverflow.com/users/752213/chrisfrancis27)
+![Github years](https://badges.pufler.dev/years/chrisfrancis27) ![Codewars](https://www.codewars.com/users/chrisfrancis27/badges/small) [![StackOverflow](https://stackoverflow-badge.vercel.app/?userID=752213)](https://stackoverflow.com/users/752213/chrisfrancis27)
 
 <!-- my-badges start -->
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
