@@ -33,5 +33,47 @@
     "desc": "I joined GitHub 15 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-15.png"
+  },
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/chrisfrancis27/glob/commit/a3af022858707d5252fbf3cde2e2fb5020f7d682\"><strong>a</strong>3af022858707d5252fbf3cde2e2fb5020f7d682</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/chrisfrancis27/chrisfrancis27/commit/abb275aa6594aaaa57ba799131fc70026432b1fb\"><strong>ab</strong>b275aa6594aaaa57ba799131fc70026432b1fb</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/chrisfrancis27/chrisfrancis27/commit/162bd11e230728e3bcafe31de1553e45fc243b32\">162bd11e230728e3b<strong>cafe</strong>31de1553e45fc243b32</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 28 times)\n2. readme.md (used 25 times)\n3. initial (used 7 times)\n4. commit (used 7 times)\n5. layout (used 4 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 2 my own repositories.",
+    "body": "- <a href=\"https://github.com/chrisfrancis27/JS1K\">chrisfrancis27/JS1K</a>\n- <a href=\"https://github.com/chrisfrancis27/canvas-torch\">chrisfrancis27/canvas-torch</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/chrisfrancis27/chrisfrancis27/commit/4258715089c83ea7ff11c076177dd1a7868ffe88\">4258715</a>\n- <a href=\"https://github.com/chrisfrancis27/chrisfrancis27/commit/673a4190c4e03d0f6d7964460eafd054d253a5f6\">673a419</a>\n- <a href=\"https://github.com/chrisfrancis27/chrisfrancis27/commit/b948522091dc3fc3373f953f297b1f0b928b3fdb\">b948522</a>\n- <a href=\"https://github.com/chrisfrancis27/chrisfrancis27/commit/fc3a7238df08477efc7ced676d7092270fb9c36d\">fc3a723</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   }
 ]
